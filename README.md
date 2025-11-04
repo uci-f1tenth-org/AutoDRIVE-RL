@@ -45,4 +45,4 @@ for rvis, and
 ```bash
 ros2 run autodrive_f1tenth teleop_keyboard
 ```
-for teleop
+for teleop.
